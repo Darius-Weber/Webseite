@@ -1,7 +1,7 @@
 function Banner(){
 
     return(
-        <div class="Banner"><img src="../img/banner/Banner.png" alt="Banner"/></div>
+        <div class="Banner container"><img class="Banner_img" src="../img/banner/Banner2.jpg" alt="Banner"/></div>
     );
 }
 export default Banner;
