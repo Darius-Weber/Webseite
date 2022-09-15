@@ -3,8 +3,8 @@ function Website_description(){
     return(
         <div class="container about_website">
             <div class="row">
-                <div class="col-sm-3">
-                    <h2 class="about_website_title">Über die Seite</h2>
+                <div class="col-sm-4">
+                    <h1 class="about_website_title">Über die Seite</h1>
                 </div>
                 <div class="col-sm align-self-center about_website_text_div">
                     <p class=" about_website_text">
