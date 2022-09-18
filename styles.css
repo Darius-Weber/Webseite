@@ -1,6 +1,7 @@
 /*  Banner  */
 body{
-background-color:#f7f9ef;
+/*background-color:#f7f9ef;*/
+background-color: red;
 
 }
 
@@ -39,16 +40,16 @@ background-color:#f7f9ef;
             width: 85%;
         }
 
-        .about_website_title{
+       /* .about_website_title{
           
-        }
+        }*/
 
         .about_website_text{
             font-size: 1.25rem;
         }
-        .about_website_text_div{
+       /* .about_website_text_div{
 
-        }
+        }*/
         
 
     /* division1 */

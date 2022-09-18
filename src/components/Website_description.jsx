@@ -1,13 +1,13 @@
 function Website_description(){
 
     return(
-        <div class="container about_website">
-            <div class="row">
-                <div class="col-sm-4">
-                    <h1 class="about_website_title">Über die Seite</h1>
+        <div className="container about_website">
+            <div className="row">
+                <div className="col-sm-4">
+                    <h1 className="about_website_title">Über die Seite</h1>
                 </div>
-                <div class="col-sm align-self-center about_website_text_div">
-                    <p class=" about_website_text">
+                <div className="col-sm align-self-center about_website_text_div">
+                    <p className=" about_website_text">
                     Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore 
                     magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
                
